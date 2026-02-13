@@ -1,0 +1,30 @@
+  0%|          | 0/72 [00:00<?, ?it/s]  1%|▏         | 1/72 [00:00<01:00,  1.17it/s]  8%|▊         | 6/72 [00:00<00:08,  7.82it/s] 12%|█▎        | 9/72 [00:01<00:05, 10.69it/s] 89%|████████▉ | 64/72 [00:01<00:00, 107.35it/s]100%|██████████| 72/72 [00:01<00:00, 55.00it/s] 
+Traceback (most recent call last):
+  File "/data/morrisq/divyak/projects/orchard/bin/orchard", line 114, in <module>
+    main()
+  File "/data/morrisq/divyak/projects/orchard/bin/orchard", line 96, in main
+    run_orchard(MODEL_TYPES[args.model],
+  File "/data/morrisq/divyak/projects/orchard/bin/orchard", line 48, in run_orchard
+    F_data, params = extract_F_and_params(path_data.ssm_fn, path_data.params_fn)
+  File "/data/morrisq/divyak/projects/orchard/bin/../lib/orchard/input/extract.py", line 37, in extract_F_and_params
+    variants = parse.load_ssm(ssm_fn)
+  File "/lila/home/koyyald/mambaforge/envs/orchard/lib/python3.10/site-packages/omicsdata/ssm/parse.py", line 47, in load_ssm
+    Variants_Keys.VAR_READS: extract_nums(row[SSM_Columns.VAR_READS], np.int32),
+  File "/lila/home/koyyald/mambaforge/envs/orchard/lib/python3.10/site-packages/omicsdata/ssm/parse.py", line 18, in extract_nums
+    return np.array(S.split(','), dtype=dtype)
+AttributeError: 'NoneType' object has no attribute 'split'
+Traceback (most recent call last):
+  File "/data/morrisq/divyak/projects/orchard/bin/orchard", line 114, in <module>
+    main()
+  File "/data/morrisq/divyak/projects/orchard/bin/orchard", line 96, in main
+    run_orchard(MODEL_TYPES[args.model],
+  File "/data/morrisq/divyak/projects/orchard/bin/orchard", line 48, in run_orchard
+    F_data, params = extract_F_and_params(path_data.ssm_fn, path_data.params_fn)
+  File "/data/morrisq/divyak/projects/orchard/bin/../lib/orchard/input/extract.py", line 37, in extract_F_and_params
+    variants = parse.load_ssm(ssm_fn)
+  File "/lila/home/koyyald/mambaforge/envs/orchard/lib/python3.10/site-packages/omicsdata/ssm/parse.py", line 47, in load_ssm
+    Variants_Keys.VAR_READS: extract_nums(row[SSM_Columns.VAR_READS], np.int32),
+  File "/lila/home/koyyald/mambaforge/envs/orchard/lib/python3.10/site-packages/omicsdata/ssm/parse.py", line 18, in extract_nums
+    return np.array(S.split(','), dtype=dtype)
+AttributeError: 'NoneType' object has no attribute 'split'
+  0%|          | 0/80 [00:00<?, ?it/s]  1%|▏         | 1/80 [00:01<01:58,  1.50s/it] 40%|████      | 32/80 [00:01<00:01, 27.61it/s]100%|██████████| 80/80 [00:01<00:00, 44.56it/s]

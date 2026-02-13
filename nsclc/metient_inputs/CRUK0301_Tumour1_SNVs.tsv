@@ -1,0 +1,9 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	CRUK0301_SU_T1	0	KEAP1;UNCX	1	primary	680
+1	CRUK0301_SU_FLN1	0	KEAP1;UNCX	1	metastasis	680
+0	CRUK0301_SU_T1	1	PDGFRA;CIC	0	primary	261
+1	CRUK0301_SU_FLN1	1	PDGFRA;CIC	1	metastasis	261
+0	CRUK0301_SU_T1	2	TCF7L2;CDK12	0	primary	17
+1	CRUK0301_SU_FLN1	2	TCF7L2;CDK12	1	metastasis	17
+0	CRUK0301_SU_T1	3	UXS1;ADRA2C	1	primary	16
+1	CRUK0301_SU_FLN1	3	UXS1;ADRA2C	0	metastasis	16

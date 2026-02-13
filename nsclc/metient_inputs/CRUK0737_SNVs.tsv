@@ -1,0 +1,13 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	primary_SU_T1	0	ASXL1;HGF	0	primary	373
+1	LN_SU_FLN1	0	ASXL1;HGF	1	metastasis	373
+0	primary_SU_T1	1	SPTAN1	0	primary	35
+1	LN_SU_FLN1	1	SPTAN1	0	metastasis	35
+0	primary_SU_T1	2	ASXL1;PTPRD	1	primary	25
+1	LN_SU_FLN1	2	ASXL1;PTPRD	0	metastasis	25
+0	primary_SU_T1	3	COLGALT2;ANKRD44	0	primary	21
+1	LN_SU_FLN1	3	COLGALT2;ANKRD44	1	metastasis	21
+0	primary_SU_T1	4	KMT2A	1	primary	19
+1	LN_SU_FLN1	4	KMT2A	0	metastasis	19
+0	primary_SU_T1	5	TSPAN1;NPAS2	1	primary	7
+1	LN_SU_FLN1	5	TSPAN1;NPAS2	0	metastasis	7

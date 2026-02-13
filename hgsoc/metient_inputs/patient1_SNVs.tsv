@@ -1,0 +1,64 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	Left Ovary	0	A	0	primary	60
+1	Right Ovary	0	A	0	primary	60
+2	Appendix	0	A	0	metastasis	60
+3	Left Fallopian Tube	0	A	1	metastasis	60
+4	Omentum	0	A	0	metastasis	60
+5	Right Fallopian Tube	0	A	1	metastasis	60
+6	Small Bowel	0	A	0	metastasis	60
+0	Left Ovary	1	B	1	primary	34
+1	Right Ovary	1	B	0	primary	34
+2	Appendix	1	B	1	metastasis	34
+3	Left Fallopian Tube	1	B	1	metastasis	34
+4	Omentum	1	B	1	metastasis	34
+5	Right Fallopian Tube	1	B	0	metastasis	34
+6	Small Bowel	1	B	1	metastasis	34
+0	Left Ovary	2	C	0	primary	15
+1	Right Ovary	2	C	0	primary	15
+2	Appendix	2	C	0	metastasis	15
+3	Left Fallopian Tube	2	C	0	metastasis	15
+4	Omentum	2	C	0	metastasis	15
+5	Right Fallopian Tube	2	C	0	metastasis	15
+6	Small Bowel	2	C	1	metastasis	15
+0	Left Ovary	3	D	1	primary	11
+1	Right Ovary	3	D	0	primary	11
+2	Appendix	3	D	0	metastasis	11
+3	Left Fallopian Tube	3	D	0	metastasis	11
+4	Omentum	3	D	0	metastasis	11
+5	Right Fallopian Tube	3	D	0	metastasis	11
+6	Small Bowel	3	D	0	metastasis	11
+0	Left Ovary	4	E	0	primary	27
+1	Right Ovary	4	E	1	primary	27
+2	Appendix	4	E	0	metastasis	27
+3	Left Fallopian Tube	4	E	0	metastasis	27
+4	Omentum	4	E	0	metastasis	27
+5	Right Fallopian Tube	4	E	0	metastasis	27
+6	Small Bowel	4	E	0	metastasis	27
+0	Left Ovary	5	F	0	primary	10
+1	Right Ovary	5	F	0	primary	10
+2	Appendix	5	F	0	metastasis	10
+3	Left Fallopian Tube	5	F	0	metastasis	10
+4	Omentum	5	F	0	metastasis	10
+5	Right Fallopian Tube	5	F	0	metastasis	10
+6	Small Bowel	5	F	0	metastasis	10
+0	Left Ovary	6	G	0	primary	29
+1	Right Ovary	6	G	1	primary	29
+2	Appendix	6	G	0	metastasis	29
+3	Left Fallopian Tube	6	G	0	metastasis	29
+4	Omentum	6	G	0	metastasis	29
+5	Right Fallopian Tube	6	G	0	metastasis	29
+6	Small Bowel	6	G	0	metastasis	29
+0	Left Ovary	7	H	1	primary	5
+1	Right Ovary	7	H	1	primary	5
+2	Appendix	7	H	0	metastasis	5
+3	Left Fallopian Tube	7	H	0	metastasis	5
+4	Omentum	7	H	0	metastasis	5
+5	Right Fallopian Tube	7	H	0	metastasis	5
+6	Small Bowel	7	H	0	metastasis	5
+0	Left Ovary	8	I	0	primary	20
+1	Right Ovary	8	I	1	primary	20
+2	Appendix	8	I	0	metastasis	20
+3	Left Fallopian Tube	8	I	0	metastasis	20
+4	Omentum	8	I	0	metastasis	20
+5	Right Fallopian Tube	8	I	0	metastasis	20
+6	Small Bowel	8	I	0	metastasis	20

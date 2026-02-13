@@ -1,0 +1,5 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	primary_SU_T1	0	ATR;PIK3CA	1	primary	975
+1	LN_SU_FLN1	0	ATR;PIK3CA	1	metastasis	975
+0	primary_SU_T1	1	MCL1;TTN	0	primary	9
+1	LN_SU_FLN1	1	MCL1;TTN	1	metastasis	9

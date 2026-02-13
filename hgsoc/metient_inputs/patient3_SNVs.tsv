@@ -1,0 +1,57 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	Left Ovary	0	A	1	primary	96
+1	Right Ovary	0	A	0	primary	96
+2	Adnexa	0	A	0	metastasis	96
+3	Cul de Sac	0	A	0	metastasis	96
+4	Left Fallopian Tube Fimbriae	0	A	0	metastasis	96
+5	Omentum	0	A	0	metastasis	96
+6	Right Fallopian Tube	0	A	1	metastasis	96
+7	Sigmoid Colon Deposit	0	A	0	metastasis	96
+0	Left Ovary	1	B	0	primary	9
+1	Right Ovary	1	B	0	primary	9
+2	Adnexa	1	B	0	metastasis	9
+3	Cul de Sac	1	B	1	metastasis	9
+4	Left Fallopian Tube Fimbriae	1	B	0	metastasis	9
+5	Omentum	1	B	1	metastasis	9
+6	Right Fallopian Tube	1	B	0	metastasis	9
+7	Sigmoid Colon Deposit	1	B	1	metastasis	9
+0	Left Ovary	2	C	1	primary	14
+1	Right Ovary	2	C	0	primary	14
+2	Adnexa	2	C	0	metastasis	14
+3	Cul de Sac	2	C	0	metastasis	14
+4	Left Fallopian Tube Fimbriae	2	C	0	metastasis	14
+5	Omentum	2	C	0	metastasis	14
+6	Right Fallopian Tube	2	C	0	metastasis	14
+7	Sigmoid Colon Deposit	2	C	1	metastasis	14
+0	Left Ovary	3	D	1	primary	4
+1	Right Ovary	3	D	1	primary	4
+2	Adnexa	3	D	0	metastasis	4
+3	Cul de Sac	3	D	1	metastasis	4
+4	Left Fallopian Tube Fimbriae	3	D	1	metastasis	4
+5	Omentum	3	D	1	metastasis	4
+6	Right Fallopian Tube	3	D	1	metastasis	4
+7	Sigmoid Colon Deposit	3	D	1	metastasis	4
+0	Left Ovary	4	E	0	primary	12
+1	Right Ovary	4	E	1	primary	12
+2	Adnexa	4	E	0	metastasis	12
+3	Cul de Sac	4	E	0	metastasis	12
+4	Left Fallopian Tube Fimbriae	4	E	0	metastasis	12
+5	Omentum	4	E	0	metastasis	12
+6	Right Fallopian Tube	4	E	0	metastasis	12
+7	Sigmoid Colon Deposit	4	E	0	metastasis	12
+0	Left Ovary	5	F	1	primary	9
+1	Right Ovary	5	F	0	primary	9
+2	Adnexa	5	F	0	metastasis	9
+3	Cul de Sac	5	F	0	metastasis	9
+4	Left Fallopian Tube Fimbriae	5	F	1	metastasis	9
+5	Omentum	5	F	1	metastasis	9
+6	Right Fallopian Tube	5	F	0	metastasis	9
+7	Sigmoid Colon Deposit	5	F	0	metastasis	9
+0	Left Ovary	6	G	0	primary	38
+1	Right Ovary	6	G	0	primary	38
+2	Adnexa	6	G	1	metastasis	38
+3	Cul de Sac	6	G	0	metastasis	38
+4	Left Fallopian Tube Fimbriae	6	G	0	metastasis	38
+5	Omentum	6	G	0	metastasis	38
+6	Right Fallopian Tube	6	G	0	metastasis	38
+7	Sigmoid Colon Deposit	6	G	0	metastasis	38

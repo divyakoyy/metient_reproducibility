@@ -1,0 +1,164 @@
+Sender: LSF System <lsfadmin@lu02>
+Subject: Job 6839575: <python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz> in cluster <lila> Done
+
+Job <python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz> was submitted from host <lu07> by user <koyyald> in cluster <lila> at Tue May 28 21:07:17 2024
+Job was executed on host(s) <8*lu02>, in queue <cpuqueue>, as user <koyyald> in cluster <lila> at Tue May 28 21:07:20 2024
+</home/koyyald> was used as the home directory.
+</data/morrisq/divyak/projects/metient/metient/data/sanborn_melanoma_2015/cn_neutral_data/pyclone_vi_orchard_trees> was used as the working directory.
+Started at Tue May 28 21:07:20 2024
+Terminated at Tue May 28 21:07:28 2024
+Results reported at Tue May 28 21:07:28 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   8.27 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     64.00 GB
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                18
+    Run time :                                   9 sec.
+    Turnaround time :                            11 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <error_B.log> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@ls13>
+Subject: Job 8349079: <python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz> in cluster <lila> Done
+
+Job <python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz> was submitted from host <ls16> by user <koyyald> in cluster <lila> at Mon Jul 29 09:08:15 2024
+Job was executed on host(s) <8*ls13>, in queue <cpuqueue>, as user <koyyald> in cluster <lila> at Mon Jul 29 09:10:43 2024
+</home/koyyald> was used as the home directory.
+</data/morrisq/divyak/projects/metient/metient/data/sanborn_melanoma_2015/cn_neutral_data/pyclone_vi_orchard_trees> was used as the working directory.
+Started at Mon Jul 29 09:10:43 2024
+Terminated at Mon Jul 29 09:10:48 2024
+Results reported at Mon Jul 29 09:10:48 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   8.80 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     64.00 GB
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                18
+    Run time :                                   4 sec.
+    Turnaround time :                            153 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <error_B.log> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@lt01>
+Subject: Job 8349504: <python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz> in cluster <lila> Done
+
+Job <python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz> was submitted from host <ls16> by user <koyyald> in cluster <lila> at Mon Jul 29 09:24:01 2024
+Job was executed on host(s) <8*lt01>, in queue <cpuqueue>, as user <koyyald> in cluster <lila> at Mon Jul 29 09:24:04 2024
+</home/koyyald> was used as the home directory.
+</data/morrisq/divyak/projects/metient/metient/data/sanborn_melanoma_2015/cn_neutral_data/pyclone_vi_orchard_trees> was used as the working directory.
+Started at Mon Jul 29 09:24:04 2024
+Terminated at Mon Jul 29 09:24:14 2024
+Results reported at Mon Jul 29 09:24:14 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   7.71 sec.
+    Max Memory :                                 2 GB
+    Average Memory :                             0.86 GB
+    Total Requested Memory :                     64.00 GB
+    Delta Memory :                               62.00 GB
+    Max Swap :                                   -
+    Max Processes :                              76
+    Max Threads :                                87
+    Run time :                                   9 sec.
+    Turnaround time :                            13 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <error_B.log> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@ls15>
+Subject: Job 8349630: <python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz> in cluster <lila> Done
+
+Job <python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz> was submitted from host <ls16> by user <koyyald> in cluster <lila> at Mon Jul 29 09:32:54 2024
+Job was executed on host(s) <8*ls15>, in queue <cpuqueue>, as user <koyyald> in cluster <lila> at Mon Jul 29 09:32:57 2024
+</home/koyyald> was used as the home directory.
+</data/morrisq/divyak/projects/metient/metient/data/sanborn_melanoma_2015/cn_neutral_data/pyclone_vi_orchard_trees> was used as the working directory.
+Started at Mon Jul 29 09:32:57 2024
+Terminated at Mon Jul 29 09:33:12 2024
+Results reported at Mon Jul 29 09:33:12 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python /data/morrisq/divyak/projects/orchard/bin/orchard -p B.ssm B.params.json B.results.npz
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   7.26 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     64.00 GB
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                18
+    Run time :                                   16 sec.
+    Turnaround time :                            18 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <error_B.log> for stderr output of this job.
+

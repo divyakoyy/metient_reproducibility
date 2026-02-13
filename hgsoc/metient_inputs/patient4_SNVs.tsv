@@ -1,0 +1,33 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	Left Ovary Surface	0	A	0	primary	75
+1	Right Ovary	0	A	0	primary	75
+2	Left Pelvic Sidewall	0	A	0	metastasis	75
+3	Right Pelvic Sidewall	0	A	0	metastasis	75
+0	Left Ovary Surface	1	B	1	primary	18
+1	Right Ovary	1	B	1	primary	18
+2	Left Pelvic Sidewall	1	B	1	metastasis	18
+3	Right Pelvic Sidewall	1	B	1	metastasis	18
+0	Left Ovary Surface	2	C	0	primary	19
+1	Right Ovary	2	C	0	primary	19
+2	Left Pelvic Sidewall	2	C	0	metastasis	19
+3	Right Pelvic Sidewall	2	C	0	metastasis	19
+0	Left Ovary Surface	3	D	0	primary	15
+1	Right Ovary	3	D	1	primary	15
+2	Left Pelvic Sidewall	3	D	0	metastasis	15
+3	Right Pelvic Sidewall	3	D	0	metastasis	15
+0	Left Ovary Surface	4	E	0	primary	25
+1	Right Ovary	4	E	1	primary	25
+2	Left Pelvic Sidewall	4	E	0	metastasis	25
+3	Right Pelvic Sidewall	4	E	0	metastasis	25
+0	Left Ovary Surface	5	F	0	primary	6
+1	Right Ovary	5	F	1	primary	6
+2	Left Pelvic Sidewall	5	F	0	metastasis	6
+3	Right Pelvic Sidewall	5	F	0	metastasis	6
+0	Left Ovary Surface	6	G	0	primary	12
+1	Right Ovary	6	G	1	primary	12
+2	Left Pelvic Sidewall	6	G	0	metastasis	12
+3	Right Pelvic Sidewall	6	G	0	metastasis	12
+0	Left Ovary Surface	7	H	0	primary	8
+1	Right Ovary	7	H	1	primary	8
+2	Left Pelvic Sidewall	7	H	0	metastasis	8
+3	Right Pelvic Sidewall	7	H	0	metastasis	8

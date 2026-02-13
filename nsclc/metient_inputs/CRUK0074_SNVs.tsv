@@ -1,0 +1,13 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	primary_SU_T1	0	PPP6C;PIK3CA	0	primary	734
+1	metachronousMet_BR_FLN1	0	PPP6C;PIK3CA	0	metastasis	734
+0	primary_SU_T1	1	POLRMT;PTPDC1	1	primary	124
+1	metachronousMet_BR_FLN1	1	POLRMT;PTPDC1	0	metastasis	124
+0	primary_SU_T1	2	ARID2;HRAS	0	primary	114
+1	metachronousMet_BR_FLN1	2	ARID2;HRAS	1	metastasis	114
+0	primary_SU_T1	3	APOB	0	primary	72
+1	metachronousMet_BR_FLN1	3	APOB	0	metastasis	72
+0	primary_SU_T1	4	ARHGAP35	1	primary	55
+1	metachronousMet_BR_FLN1	4	ARHGAP35	0	metastasis	55
+0	primary_SU_T1	5	RP11-634B7.4;NBAS	0	primary	29
+1	metachronousMet_BR_FLN1	5	RP11-634B7.4;NBAS	1	metastasis	29

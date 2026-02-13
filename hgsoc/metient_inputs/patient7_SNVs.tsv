@@ -1,0 +1,31 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	Left Ovary	0	A	0	primary	78
+1	Right Ovary	0	A	1	primary	78
+2	Right Uterosacral	0	A	0	primary	78
+3	Bowel Implant	0	A	0	metastasis	78
+4	Brain Metastasis	0	A	0	metastasis	78
+5	Righ Pelvic Mass	0	A	0	metastasis	78
+0	Left Ovary	1	B	0	primary	76
+1	Right Ovary	1	B	0	primary	76
+2	Right Uterosacral	1	B	1	primary	76
+3	Bowel Implant	1	B	0	metastasis	76
+4	Brain Metastasis	1	B	1	metastasis	76
+5	Righ Pelvic Mass	1	B	0	metastasis	76
+0	Left Ovary	2	C	1	primary	28
+1	Right Ovary	2	C	1	primary	28
+2	Right Uterosacral	2	C	1	primary	28
+3	Bowel Implant	2	C	0	metastasis	28
+4	Brain Metastasis	2	C	0	metastasis	28
+5	Righ Pelvic Mass	2	C	0	metastasis	28
+0	Left Ovary	3	D	0	primary	51
+1	Right Ovary	3	D	0	primary	51
+2	Right Uterosacral	3	D	1	primary	51
+3	Bowel Implant	3	D	1	metastasis	51
+4	Brain Metastasis	3	D	0	metastasis	51
+5	Righ Pelvic Mass	3	D	1	metastasis	51
+0	Left Ovary	4	E	1	primary	59
+1	Right Ovary	4	E	0	primary	59
+2	Right Uterosacral	4	E	0	primary	59
+3	Bowel Implant	4	E	0	metastasis	59
+4	Brain Metastasis	4	E	0	metastasis	59
+5	Righ Pelvic Mass	4	E	0	metastasis	59

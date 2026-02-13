@@ -1,0 +1,17 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	primary_SU_T1	0	HGF;MUC6	0	primary	1448
+1	metachronousMet_BR_T1.FR1	0	HGF;MUC6	0	metastasis	1448
+0	primary_SU_T1	1	SMARCB1	0	primary	48
+1	metachronousMet_BR_T1.FR1	1	SMARCB1	1	metastasis	48
+0	primary_SU_T1	2	DVL1;PER3	1	primary	28
+1	metachronousMet_BR_T1.FR1	2	DVL1;PER3	0	metastasis	28
+0	primary_SU_T1	3	APOB	1	primary	28
+1	metachronousMet_BR_T1.FR1	3	APOB	0	metastasis	28
+0	primary_SU_T1	4	KDM5B;USH2A	1	primary	24
+1	metachronousMet_BR_T1.FR1	4	KDM5B;USH2A	0	metastasis	24
+0	primary_SU_T1	5	MTOR	1	primary	12
+1	metachronousMet_BR_T1.FR1	5	MTOR	0	metastasis	12
+0	primary_SU_T1	6	DDX59;CHL1	1	primary	7
+1	metachronousMet_BR_T1.FR1	6	DDX59;CHL1	0	metastasis	7
+0	primary_SU_T1	7	TNNI3K;PLCL2	1	primary	5
+1	metachronousMet_BR_T1.FR1	7	TNNI3K;PLCL2	0	metastasis	5

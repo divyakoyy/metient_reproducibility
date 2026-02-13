@@ -1,0 +1,11 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	primary_SU_T1	0	PIK3CA;TP53	1	primary	237
+1	LN_SU_FLN1	0	PIK3CA;TP53	0	metastasis	237
+0	primary_SU_T1	1	ZCCHC11;CACNA1E	0	primary	33
+1	LN_SU_FLN1	1	ZCCHC11;CACNA1E	1	metastasis	33
+0	primary_SU_T1	2	PREPL;CBLB	1	primary	19
+1	LN_SU_FLN1	2	PREPL;CBLB	0	metastasis	19
+0	primary_SU_T1	3	C1orf101;POLR1B	1	primary	10
+1	LN_SU_FLN1	3	C1orf101;POLR1B	1	metastasis	10
+0	primary_SU_T1	4	ATF3;TBR1	0	primary	8
+1	LN_SU_FLN1	4	ATF3;TBR1	1	metastasis	8

@@ -1,0 +1,11 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	primary_SU_T1	0	POLE;SETBP1	0	primary	396
+1	metachronousMet_BR_T1	0	POLE;SETBP1	0	metastasis	396
+0	primary_SU_T1	1	SIN3A;SMARCA4	1	primary	45
+1	metachronousMet_BR_T1	1	SIN3A;SMARCA4	1	metastasis	45
+0	primary_SU_T1	2	PKN2;CACNA1E	0	primary	16
+1	metachronousMet_BR_T1	2	PKN2;CACNA1E	0	metastasis	16
+0	primary_SU_T1	3	PEAR1;CD84	1	primary	14
+1	metachronousMet_BR_T1	3	PEAR1;CD84	0	metastasis	14
+0	primary_SU_T1	4	FAT4;TDH	0	primary	9
+1	metachronousMet_BR_T1	4	FAT4;TDH	1	metastasis	9

@@ -1,0 +1,13 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	primary_SU_T1	0	NOTCH2;BRAF	0	primary	168
+1	metachronousMet_BR_T1	0	NOTCH2;BRAF	1	metastasis	168
+0	primary_SU_T1	1	HRAS	1	primary	16
+1	metachronousMet_BR_T1	1	HRAS	1	metastasis	16
+0	primary_SU_T1	2	WDR49;SEMA5A	0	primary	14
+1	metachronousMet_BR_T1	2	WDR49;SEMA5A	0	metastasis	14
+0	primary_SU_T1	3	MAN1A2;SV2A	1	primary	8
+1	metachronousMet_BR_T1	3	MAN1A2;SV2A	0	metastasis	8
+0	primary_SU_T1	4	IMPG2;PDE6B	0	primary	8
+1	metachronousMet_BR_T1	4	IMPG2;PDE6B	1	metastasis	8
+0	primary_SU_T1	5	LDB2;EPB41L4A	1	primary	5
+1	metachronousMet_BR_T1	5	LDB2;EPB41L4A	1	metastasis	5

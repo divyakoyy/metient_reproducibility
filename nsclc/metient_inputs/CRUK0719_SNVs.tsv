@@ -1,0 +1,11 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	primary_SU_T1	0	NIPBL;NF2	0	primary	875
+1	metachronousMet_BR_T1	0	NIPBL;NF2	0	metastasis	875
+0	primary_SU_T1	1	ADAM17;DYSF	0	primary	14
+1	metachronousMet_BR_T1	1	ADAM17;DYSF	1	metastasis	14
+0	primary_SU_T1	2	WT1	1	primary	12
+1	metachronousMet_BR_T1	2	WT1	0	metastasis	12
+0	primary_SU_T1	3	SATB2;ZNF142	1	primary	11
+1	metachronousMet_BR_T1	3	SATB2;ZNF142	0	metastasis	11
+0	primary_SU_T1	4	CNOT8;ADAM19	1	primary	6
+1	metachronousMet_BR_T1	4	CNOT8;ADAM19	0	metastasis	6

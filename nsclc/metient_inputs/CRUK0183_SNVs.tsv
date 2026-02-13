@@ -1,0 +1,17 @@
+anatomical_site_index	anatomical_site_label	cluster_index	cluster_label	present	site_category	num_mutations
+0	primary_SU_T1	0	ATR;PLXNB2	0	primary	634
+1	LN_SU_FLN1	0	ATR;PLXNB2	0	metastasis	634
+0	primary_SU_T1	1	RPL5;RHEB	1	primary	60
+1	LN_SU_FLN1	1	RPL5;RHEB	0	metastasis	60
+0	primary_SU_T1	2	TMEM57;SV2A	1	primary	43
+1	LN_SU_FLN1	2	TMEM57;SV2A	0	metastasis	43
+0	primary_SU_T1	3	NOTCH2	1	primary	22
+1	LN_SU_FLN1	3	NOTCH2	0	metastasis	22
+0	primary_SU_T1	4	NMNAT1;ANKRD23	0	primary	12
+1	LN_SU_FLN1	4	NMNAT1;ANKRD23	1	metastasis	12
+0	primary_SU_T1	5	CCDC85A;PIKFYVE	0	primary	11
+1	LN_SU_FLN1	5	CCDC85A;PIKFYVE	1	metastasis	11
+0	primary_SU_T1	6	KMT2C	1	primary	11
+1	LN_SU_FLN1	6	KMT2C	0	metastasis	11
+0	primary_SU_T1	7	KIAA1107;TOR1AIP1	1	primary	6
+1	LN_SU_FLN1	7	KIAA1107;TOR1AIP1	0	metastasis	6
